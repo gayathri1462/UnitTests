@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Users component it renders a correct snapshot 1`] = `
+<div
+  className="Users"
+>
+  <h1>
+    Users:
+  </h1>
+  <div>
+    Loading users...
+  </div>
+</div>
+`;
